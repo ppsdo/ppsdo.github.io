@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Peter's Profile # TBD, not that catchy of a tile
+title: PPSD
 email: peterphu.do@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   DS and GD
