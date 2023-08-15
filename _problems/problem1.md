@@ -37,6 +37,7 @@ How many different paths can the grasshopper take to reach his destination?
     </p>
 </details>
 
+----
 #### Q2
 How many ways are there to be a tile a 2-by-10 board with 2-by-1 dominoes?
 
